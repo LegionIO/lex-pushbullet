@@ -8,6 +8,16 @@ Pushbullet push notification integration for [LegionIO](https://github.com/Legio
 gem install lex-pushbullet
 ```
 
+Or add to your Gemfile:
+
+```ruby
+gem 'lex-pushbullet'
+```
+
+## Status
+
+This extension is a minimal skeleton. Runner implementation is not yet complete.
+
 ## Requirements
 
 - Ruby >= 3.4
