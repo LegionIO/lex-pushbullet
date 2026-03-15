@@ -1,6 +1,13 @@
 # frozen_string_literal: true
 
 require 'bundler/setup'
+
+module Legion
+  module Extensions
+    module Core; end
+  end
+end
+
 require 'legion/extensions/pushbullet'
 
 RSpec.configure do |config|
