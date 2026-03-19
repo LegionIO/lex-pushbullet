@@ -68,6 +68,8 @@ client.subscribe(channel_tag: 'some_channel')
 
 ## Development
 
+20 specs total.
+
 ```bash
 bundle install
 bundle exec rspec
