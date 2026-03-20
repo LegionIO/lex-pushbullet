@@ -64,8 +64,8 @@ client.channel_info(tag: 'some_channel')
 ## Requirements
 
 - Ruby >= 3.4
-- [LegionIO](https://github.com/LegionIO/LegionIO) framework
 - Pushbullet account and API access token
+- [LegionIO](https://github.com/LegionIO/LegionIO) framework (optional — standalone Client works without it)
 
 ## License
 
