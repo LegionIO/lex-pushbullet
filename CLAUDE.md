@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to the Pushbullet push notification serv
 
 **GitHub**: https://github.com/LegionIO/lex-pushbullet
 **License**: MIT
-**Version**: 0.2.0
+**Version**: 0.2.1
 
 ## Architecture
 
@@ -35,7 +35,7 @@ Legion::Extensions::Pushbullet
 | `lib/legion/extensions/pushbullet/runners/push.rb` | Push runner: send_note, send_link, send_file, list_pushes, delete_push, dismiss_push |
 | `lib/legion/extensions/pushbullet/runners/device.rb` | Device runner: list_devices, get_device, create_device, update_device, delete_device |
 | `lib/legion/extensions/pushbullet/runners/channel.rb` | Channel runner: list_subscriptions, subscribe, unsubscribe, channel_info |
-| `lib/legion/extensions/pushbullet/version.rb` | Version constant (0.2.0) |
+| `lib/legion/extensions/pushbullet/version.rb` | Version constant (0.2.1) |
 
 ## API Coverage
 
